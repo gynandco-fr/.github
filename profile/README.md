@@ -4,3 +4,4 @@
 
 These are repositories for our new website to come.<br>
 You can see the current one here : https://gynandco.wordpress.com/
+If you want to contribute, contact us at bonjour@ceciliahaentjens.fr
